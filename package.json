@@ -1,8 +1,8 @@
 {
-    "name": "casper",
+    "name": "casper-petros",
     "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
     "demo": "https://demo.ghost.io",
-    "version": "2.0.5",
+    "version": "2.0.7",
     "engines": {
         "ghost": ">=1.2.0"
     },
